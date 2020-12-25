@@ -103,56 +103,56 @@ formatter.match({
   "location": "CostMapStepDefinition.user_already_on_login_page()"
 });
 formatter.result({
-  "duration": 6632038474,
+  "duration": 11938993454,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.title_of_login_page_is_free_CRM()"
 });
 formatter.result({
-  "duration": 15774006,
+  "duration": 14001483,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.user_enters_username_and_password(DataTable)"
 });
 formatter.result({
-  "duration": 456724117,
+  "duration": 271769553,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 1387968216,
+  "duration": 2166441479,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.user_is_on_hopme_page()"
 });
 formatter.result({
-  "duration": 6801514,
+  "duration": 6506899,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.user_moves_to_new_contact_page()"
 });
 formatter.result({
-  "duration": 1279890195,
+  "duration": 1313994963,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.user_enters_contacts_details(DataTable)"
 });
 formatter.result({
-  "duration": 6036534138,
+  "duration": 5418787536,
   "status": "passed"
 });
 formatter.match({
   "location": "CostMapStepDefinition.close_the_browser()"
 });
 formatter.result({
-  "duration": 860199493,
+  "duration": 813566925,
   "status": "passed"
 });
 });
